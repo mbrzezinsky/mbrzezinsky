@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbrzezinsky&label=Profile%20views&color=0e75b6&style=flat" alt="mbrzezinsky" /> </p>
 
-- 🔭 I’m currently working on **Terketa**
+- 🔭 I’m currently working on **E-learnign platform engine**
 
 - 🌱 I’m currently learning **React, TypeScript**
 
