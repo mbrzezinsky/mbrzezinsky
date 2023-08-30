@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">Currently an IT student, trying to learn front end</h3>
 
-[![](https://visitcount.itsvg.in/api?id=mbrzezinsky&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbrzezinsky&label=Profile%20views&color=0e75b6&style=flat" alt="mbrzezinsky" /> </p>
 
