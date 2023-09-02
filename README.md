@@ -2,11 +2,10 @@
 <h3 align="center">Currently an IT student, trying to learn front end</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbrzezinsky&label=Profile%20views&color=0e75b6&style=flat" alt="mbrzezinsky" /> </p>
 
 - 🔭 I’m currently working on **E-learnign platform engine**
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **React, TypeScript, Next.js**
 
 - 📫 How to reach me **mateusz.p.brzezinski@gmail.com**
 
