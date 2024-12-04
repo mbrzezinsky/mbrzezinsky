@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **AI Fitness Coach Model**
+- 🔭 I’m currently working on **CRM System**
 
 - 🌱 I’m currently learning **React, TypeScript, Next.js**
 
